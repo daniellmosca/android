@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         if (view.getId() == R.id.generateButton){
             this.mViewHolder.otpValue.setText(randomizeSequence());
-            Toast.makeText(this, "OTP Generated Successfully", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "OTP Generated Successfully!", Toast.LENGTH_SHORT).show();
         }
     }
 
