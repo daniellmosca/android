@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709398863448",
+    "firebase_url": "https://intelliradio-1b49f.firebaseio.com",
+    "project_id": "intelliradio-1b49f",
+    "storage_bucket": "intelliradio-1b49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709398863448:android:2183747a04dcccdd2c742d",
+        "android_client_info": {
+          "package_name": "com.sicsolutions.intelliradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709398863448-nanldbnrqhof05sn3c5dub983j419rqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmSjdVR8cJV48UK64WXNv-YgMa3wxnKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709398863448-nanldbnrqhof05sn3c5dub983j419rqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
